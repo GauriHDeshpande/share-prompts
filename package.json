@@ -1,5 +1,6 @@
 {
   "name": "share-prompts",
+  "description": "A prompting tool to discover, create and share creative prompts.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
